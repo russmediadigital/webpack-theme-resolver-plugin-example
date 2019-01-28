@@ -6,8 +6,8 @@ As in this Configuration, the Plugin will first look into the `fancy-theme` dire
 So the Components in this Sample Project are loaded from following sources:
 - Hello.vue -> defaul-theme
 - AwesomeList.vue -> [`webpack-theme-resolver-plugin-example-components`](https://github.com/russmediadigital/webpack-theme-resolver-plugin-example-components)
-- ListEntry.vue -> [`webpack-theme-resolver-plugin-example-components`](https://github.com/russmediadigital/webpack-theme-resolver-plugin-example-components)
-- SimpleButton.vue -> fancy-theme
+  - ListEntry.vue -> [`webpack-theme-resolver-plugin-example-components`](https://github.com/russmediadigital/webpack-theme-resolver-plugin-example-components)
+    - SimpleButton.vue -> fancy-theme
 
 Basicly every Component can be overwritten
 
