@@ -1,4 +1,4 @@
-const ThemeResolverPlugin = require('../webpack-fallback-vue-resolver-plugin/dist/index')
+const ThemeResolverPlugin = require('webpack-theme-resolver-plugin')
 const path = require('path')
 
 module.exports = {
